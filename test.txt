@@ -1,1 +1,2 @@
 This is the new line in test.txt folder
+new line added
