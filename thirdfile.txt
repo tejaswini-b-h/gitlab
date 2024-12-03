@@ -1,1 +1,2 @@
 This is the new line added in the thirdfile.txt
+new line added
